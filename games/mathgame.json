@@ -1,0 +1,362 @@
+[
+  {
+    "ID": 1,
+    "Questions": "What is 3 + 2?",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 2,
+    "Questions": "Subtract 1 from 6.",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 3,
+    "Questions": "How many apples are there if you have 2 and someone gives you 3 more?",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 4,
+    "Questions": "Count by twos up to 10: 2, 4, __, __, __, __, __, __, __, __.",
+    "answer": "6, 8, 10, 12, 14, 16, 18, 20",
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 5,
+    "Questions": "If you have 3 cookies and you eat 1, how many are left?",
+    "answer": 2,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 6,
+    "Questions": "What is 5 - 3?",
+    "answer": 2,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 7,
+    "Questions": "If you have 4 fingers on one hand and 5 on the other, how many fingers do you have altogether?",
+    "answer": 9,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 8,
+    "Questions": "Add 4 and 1.",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 9,
+    "Questions": "How many legs does a cat have if it has 4 legs and it lost 1?",
+    "answer": 3,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 10,
+    "Questions": "What comes after 8 in counting?",
+    "answer": 9,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 11,
+    "Questions": "Subtract 2 from 7.",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 12,
+    "Questions": "If you have 2 toy cars and someone gives you 3 more, how many do you have in total?",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 13,
+    "Questions": "How many sides does a square have?",
+    "answer": 4,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 14,
+    "Questions": "What is 6 - 2?",
+    "answer": 4,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 15,
+    "Questions": "If you have 3 pencils and you lose 2, how many do you have left?",
+    "answer": 1,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 16,
+    "Questions": "Add 3 to 6.",
+    "answer": 9,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 17,
+    "Questions": "What comes before 10 when counting backwards?",
+    "answer": 9,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 18,
+    "Questions": "Subtract 1 from 9.",
+    "answer": 8,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 19,
+    "Questions": "How many cans do you have if you have 2 and someone gives you 3 more?",
+    "answer": 5,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 20,
+    "Questions": "What is 10 - 4?",
+    "answer": 6,
+    "category": "For Ages 5-6:"
+  },
+  {
+    "ID": 21,
+    "Questions": "4 + 7 = ?",
+    "answer": 11,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 22,
+    "Questions": "What is 9 - 3?",
+    "answer": 6,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 23,
+    "Questions": "If you have 2 bags with 4 candies each, how many candies do you have in total?",
+    "answer": 8,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 24,
+    "Questions": "Multiply 2 by 5.",
+    "answer": 10,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 25,
+    "Questions": "Divide 10 by 2.",
+    "answer": 5,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 26,
+    "Questions": "8 + 6 = ?",
+    "answer": 14,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 27,
+    "Questions": "Subtract 4 from 12.",
+    "answer": 8,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 28,
+    "Questions": "If you have 3 boxes and each box contains 3 chocolates, how many chocolates do you have in total?",
+    "answer": 9,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 29,
+    "Questions": "Multiply 3 by 4.",
+    "answer": 12,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 30,
+    "Questions": "Divide 15 by 3.",
+    "answer": 5,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 31,
+    "Questions": "20 - 11 = ?",
+    "answer": 9,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 32,
+    "Questions": "7 x 3 = ?",
+    "answer": 21,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 33,
+    "Questions": "If you have $15 and you spend $8, how much money do you have left?",
+    "answer": 7,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 34,
+    "Questions": "What is the result of 18 divided by 2?",
+    "answer": 9,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 35,
+    "Questions": "Add 9 and 5.",
+    "answer": 14,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 36,
+    "Questions": "Subtract 7 from 15.",
+    "answer": 8,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 37,
+    "Questions": "If you have 4 apples and you share them equally among 2 friends, how many apples does each friend get?",
+    "answer": 2,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 38,
+    "Questions": "Multiply 4 by 2.",
+    "answer": 8,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 39,
+    "Questions": "Divide 16 by 4.",
+    "answer": 4,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 40,
+    "Questions": "25 - 12 = ?",
+    "answer": 13,
+    "category": "For Ages 7-8:"
+  },
+  {
+    "ID": 41,
+    "Questions": "15 - 8 = ?",
+    "answer": 7,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 42,
+    "Questions": "6 x 4 = ?",
+    "answer": 24,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 43,
+    "Questions": "What is the result of 20 divided by 4?",
+    "answer": 5,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 44,
+    "Questions": "If you have $20 and you spend $12, how much money do you have left?",
+    "answer": 8,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 45,
+    "Questions": "If there are 24 students in a class and they need to be divided into 4 groups equally, how many students will be in each group?",
+    "answer": 6,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 46,
+    "Questions": "35 + 17 = ?",
+    "answer": 52,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 47,
+    "Questions": "Subtract 14 from 29.",
+    "answer": 15,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 48,
+    "Questions": "If you have 5 bags and each bag contains 6 marbles, how many marbles do you have in total?",
+    "answer": 30,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 49,
+    "Questions": "Multiply 8 by 3.",
+    "answer": 24,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 50,
+    "Questions": "Divide 40 by 5.",
+    "answer": 8,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 51,
+    "Questions": "100 - 79 = ?",
+    "answer": 21,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 52,
+    "Questions": "9 x 6 = ?",
+    "answer": 54,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 53,
+    "Questions": "If you have $50 and you spend $18, how much money do you have left?",
+    "answer": 32,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 54,
+    "Questions": "What is the result of 72 divided by 9?",
+    "answer": 8,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 55,
+    "Questions": "Add 24 and 15.",
+    "answer": 39,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 56,
+    "Questions": "Subtract 31 from 50.",
+    "answer": 19,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 57,
+    "Questions": "If you have 36 candies and you share them equally among 6 friends, how many candies does each friend get?",
+    "answer": 6,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 58,
+    "Questions": "Multiply 7 by 4.",
+    "answer": 28,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 59,
+    "Questions": "Divide 63 by 7.",
+    "answer": 9,
+    "category": "For Ages 9-10:"
+  },
+  {
+    "ID": 60,
+    "Questions": "85 - 47 = ?",
+    "answer": 38,
+    "category": "For Ages 9-10:"
+  }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "question": "What are SMART financial goals?",
+  "a": "Goals that are silly, meaningless, arbitrary, random, and trivial",
+  "b": "Goals that are specific, measurable, achievable, relevant, and time-bound",
+  "c": "Goals that are simple, memorable, achievable, relevant, and time-bound",
+  "d": "Goals that are strict, meticulous, accurate, rigorous, and time-bound",
+  "answer": "Goals that are specific, measurable, achievable, relevant, and time-bound"
+ },
+ {
+  "question": "Why is it important to set financial goals?",
+  "a": "Because financial goals are unnecessary",
+  "b": "Because financial goals provide focus, direction, and motivation for managing money effectively",
+  "c": "Because financial goals are impossible to achieve",
+  "d": "Because financial goals lead to financial ruin",
+  "answer": "Because financial goals provide focus, direction, and motivation for managing money effectively"
+ },
+ {
+  "question": "What is one characteristic of financial goals?",
+  "a": "Vague",
+  "b": "Ambiguous",
+  "c": "Measurable",
+  "d": "Unrealistic",
+  "answer": "Measurable"
+ }
+]

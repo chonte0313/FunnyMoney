@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Objective: Introduce students to the concept of money and its importance in our daily lives.",
+    "image": "lessons/lesson1.jpg",
+    "lesson file name": "lesson1",
+    "lesson question name": "questions1",
+    "points": 10,
+    "subtitle": "Introduction to Money",
+    "title": "Lesson 1"
+  },
+  {
+    "description": "Objective: Teach students to recognize and distinguish between different coins and bills.",
+    "image": "lessons/lesson2.jpg",
+    "lesson file name": "lesson2",
+    "lesson question name": "questions2",
+    "points": 10,
+    "subtitle": "Identifying Coins and Bills",
+    "title": "Lesson 2"
+  },
+  {
+    "description": "Objective: Teach students how to count coins and bills.",
+    "image": "lessons/lesson3.jpg",
+    "lesson file name": "lesson3",
+    "lesson question name": "questions3",
+    "points": 10,
+    "subtitle": "Counting Money",
+    "title": "Lesson 3"
+  },
+  {
+    "description": "Objective: Concept of saving money and its significance in achieving future goals.",
+    "image": "lessons/lesson4.jpg",
+    "lesson file name": "lesson4",
+    "lesson question name": "questions4",
+    "points": 10,
+    "subtitle": "Saving Money",
+    "title": "Lesson 4"
+  },
+  {
+    "description": "Objective: Teach students how to make smart decisions when spending money.",
+    "image": "lessons/lesson5.jpg",
+    "lesson file name": "lesson5",
+    "lesson question name": "questions5",
+    "points": 10,
+    "subtitle": "Spending Money Wisely",
+    "title": "Lesson 5"
+  },
+  {
+    "description": "Explains the concept of earning money and its significance in our lives.",
+    "image": "lessons/lesson6.jpg",
+    "lesson file name": "lesson6",
+    "lesson question name": "questions6",
+    "points": 10,
+    "subtitle": "Earning Money",
+    "title": "Lesson 6"
+  },
+  {
+    "description": "Objective: Teach students about the importance of giving back and helping others.",
+    "image": "lessons/lesson7.jpg",
+    "lesson file name": "lesson7",
+    "lesson question name": "questions7",
+    "points": 10,
+    "subtitle": "Giving Back",
+    "title": "Lesson 7"
+  },
+  {
+    "description": "Objective: Help students distinguish between needs and wants to make better financial decisions.",
+    "image": "lessons/lesson8.jpg",
+    "lesson file name": "lesson8",
+    "lesson question name": "questions8",
+    "points": 10,
+    "subtitle": "Understanding Needs and Wants",
+    "title": "Lesson 8"
+  },
+  {
+    "description": "Objective: Introduce students to the concept of budgeting and how to manage money responsibly.",
+    "image": "lessons/lesson9.jpg",
+    "lesson file name": "lesson9",
+    "lesson question name": "questions9",
+    "points": 10,
+    "subtitle": "Budgeting Basics",
+    "title": "Lesson 9"
+  },
+  {
+    "description": "Objective: Teach students how to set realistic financial goals and work towards achieving them.",
+    "image": "lessons/lesson10.jpg",
+    "lesson file name": "lesson10",
+    "lesson question name": "questions10",
+    "points": 10,
+    "subtitle": "Setting Financial Goals",
+    "title": "Lesson 10"
+  }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "question": "What is budgeting?",
+  "a": "Spending money without a plan",
+  "b": "Creating a plan to manage income and expenses effectively",
+  "c": "Ignoring financial responsibilities",
+  "d": "Wasting money on unnecessary items",
+  "answer": "Creating a plan to manage income and expenses effectively"
+ },
+ {
+  "question": "Why is it important to track expenses in a budget?",
+  "a": "To spend money impulsively",
+  "b": "To ignore financial progress",
+  "c": "To identify areas where money is being spent and make adjustments",
+  "d": "To increase debt",
+  "answer": "To identify areas where money is being spent and make adjustments"
+ },
+ {
+  "question": "What are the components of a budget?",
+  "a": "Income, savings, and wants",
+  "b": "Expenses, goals, and debts",
+  "c": "Income, expenses, and savings",
+  "d": "Needs, luxuries, and wants",
+  "answer": "Income, expenses, and savings"
+ }
+]

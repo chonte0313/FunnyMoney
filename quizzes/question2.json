@@ -1,0 +1,42 @@
+[
+ {
+  "question": "What is the value of a dime?",
+  "a": "5 cents",
+  "b": "10 cents",
+  "c": "25 cents",
+  "d": "1 cent",
+  "answer": "10 cents"
+ },
+ {
+  "question": "Which coin is worth 1 cent?",
+  "a": "Nickel",
+  "b": "Quarter",
+  "c": "Penny",
+  "d": "Dime",
+  "answer": "Penny"
+ },
+ {
+  "question": "Whose portrait is on the $5 bill?",
+  "a": "George Washington",
+  "b": "Abraham Lincoln",
+  "c": "Alexander Hamilton",
+  "d": "Andrew Jackson",
+  "answer": "Abraham Lincoln"
+ },
+ {
+  "question": "How much is a $10 bill worth?",
+  "a": 1,
+  "b": 5,
+  "c": 10,
+  "d": 20,
+  "answer": 10
+ },
+ {
+  "question": "What is the color of a nickel?",
+  "a": "Copper",
+  "b": "Silver",
+  "c": "Gold",
+  "d": "Green",
+  "answer": "Copper"
+ }
+]

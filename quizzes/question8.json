@@ -1,0 +1,26 @@
+[
+ {
+  "question": "Which of the following is considered a need?",
+  "a": "A new smartphone",
+  "b": "A vacation to Disney World",
+  "c": "Food",
+  "d": "Designer clothing",
+  "answer": "Food"
+ },
+ {
+  "question": "Why is it important to prioritize needs over wants in budgeting?",
+  "a": "Wants are more important than needs",
+  "b": "Needs are essential for survival and well-being",
+  "c": "Wants are cheaper than needs",
+  "d": "Needs can be ignored",
+  "answer": "Needs are essential for survival and well-being"
+ },
+ {
+  "question": "What is the difference between needs and wants?",
+  "a": "Needs are essential for survival, while wants are unnecessary desires",
+  "b": "Needs and wants are the same thing",
+  "c": "Wants are more important than needs",
+  "d": "Needs are more expensive than wants",
+  "answer": "Needs are essential for survival, while wants are unnecessary desires"
+ }
+]

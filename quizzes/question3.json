@@ -1,0 +1,26 @@
+[
+ {
+  "question": "Count the following coins and bills to find the total amount: 2 quarters, 4 dimes, 2 nickel, 4 $1 bills, 1 $5 bill. What is the total amount?",
+  "a": 2,
+  "b": 3,
+  "c": 4,
+  "d": 7,
+  "answer": 7
+ },
+ {
+  "question": "If you have 5 pennies, 2 nickels, and 3 $1 bills, what is the total amount?",
+  "a": 2.5,
+  "b": 3.15,
+  "c": 3,
+  "d": 2.75,
+  "answer": 3.15
+ },
+ {
+  "question": "Count the following coins: 6 quarters, 4 dimes, 2 nickels, and 3 pennies. What is the total amount?",
+  "a": 2,
+  "b": 1,
+  "c": 2.2,
+  "d": 2.03,
+  "answer": 2.03
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "question": "What is one way children can earn money?",
+  "a": "Playing video games",
+  "b": "Asking their parents for money",
+  "c": "Doing chores or working",
+  "d": "Sleeping",
+  "answer": "Doing chores or working"
+ },
+ {
+  "question": "What is the purpose of earning money?",
+  "a": "To spend it all at once",
+  "b": "To become financially independent and achieve goals",
+  "c": "To impress friends with how much money we have",
+  "d": "To give it away to charity",
+  "answer": "To become financially independent and achieve goals"
+ },
+ {
+  "question": "What are chores?",
+  "a": "Tasks or responsibilities assigned at home that contribute to the upkeep of the household",
+  "b": "Jobs performed at a store",
+  "c": "Homework assignments",
+  "d": "Things we do for fun",
+  "answer": "Tasks or responsibilities assigned at home that contribute to the upkeep of the household"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "question": "What is the purpose of money?",
+  "a": "To buy and invest in things",
+  "b": "To play games",
+  "c": "To make friends",
+  "d": "to throw away",
+  "answer": "To buy and invest in things"
+ },
+ {
+  "question": "Where does money come from?",
+  "a": "Trees",
+  "b": "Earning it through work or receiving it as a gift",
+  "c": "Found on the ground",
+  "d": "Adults",
+  "answer": "Earning it through work or receiving it as a gift"
+ },
+ {
+  "question": "What are the two types of money mentioned in the lesson?",
+  "a": " Coins and bills",
+  "b": "Rocks and sticks",
+  "c": "Toys and games",
+  "d": " taxes and cash",
+  "answer": " Coins and bills"
+ },
+ {
+  "question": "What are the names of the four common coins?",
+  "a": "Penny, nickel, dime, quarter",
+  "b": "Gold, silver, bronze, copper",
+  "c": "Dollar, euro, yen, pound",
+  "d": " V-bucks, e-coins, bitcoin, stock",
+  "answer": "Penny, nickel, dime, quarter"
+ },
+ {
+  "question": "Can you name one way people earn money?",
+  "a": "Sleeping",
+  "b": "Doing chores or working",
+  "c": "Watching TV",
+  "d": "playing video games",
+  "answer": "Doing chores or working"
+ }
+]

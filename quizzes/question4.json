@@ -1,0 +1,26 @@
+[
+ {
+  "question": "Why is saving money important?",
+  "a": "To spend it all at once",
+  "b": "To achieve future goals and be prepared for emergencies",
+  "c": "To buy everything we want immediately",
+  "d": "To impress friends with how much money we have",
+  "answer": "To achieve future goals and be prepared for emergencies"
+ },
+ {
+  "question": "What is one benefit of having an emergency fund?",
+  "a": "It's fun to have extra money",
+  "b": "It helps cover unexpected expenses",
+  "c": "It allows us to buy more toys",
+  "d": "It's not important to have an emergency fund",
+  "answer": "It helps cover unexpected expenses"
+ },
+ {
+  "question": "How can setting goals help with saving money?",
+  "a": "It doesn't help at all",
+  "b": "It helps us focus on what we want to achieve and how much we need to save",
+  "c": "It's too difficult to set goals",
+  "d": "It's better to just spend money as soon as we get it",
+  "answer": "It helps us focus on what we want to achieve and how much we need to save"
+ }
+]
