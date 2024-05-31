@@ -22,7 +22,17 @@
  {
   "slide": 2,
   "type": "text",
-  "content": "Wants are things we would like to have, but we don’t necessarily need them to survive, like toys or video games.(insert some cartoon photos)"
+  "content": "Wants are things we would like to have, but we don’t necessarily need them to survive, like toys or video games."
+ },
+ {
+  "slide": 2,
+  "type": "image",
+  "content": "image_1.1.jpeg"
+ },
+ {
+  "slide": 2,
+  "type": "image",
+  "content": "image_1.2.jpeg"
  },
  {
   "slide": 3,
@@ -37,7 +47,12 @@
  {
   "slide": 3,
   "type": "text",
-  "content": "We can save money by putting some aside from the money we get, like from allowances or gifts. (Insert cartoon image of piggy bank)"
+  "content": "We can save money by putting some aside from the money we get, like from allowances or gifts."
+ },
+ {
+  "slide": 3,
+  "type": "image",
+  "content": "image_1.3.jpeg"
  },
  {
   "slide": 4,
@@ -52,7 +67,12 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "It’s important to think about whether we really need something before spending money on it. (Cartoon image of someone thinking)"
+  "content": "It’s important to think about whether we really need something before spending money on it."
+ },
+ {
+  "slide": 4,
+  "type": "image",
+  "content": "image_1.4.png"
  },
  {
   "slide": 5,
@@ -67,7 +87,12 @@
  {
   "slide": 5,
   "type": "text",
-  "content": "For kids, earning money might mean doing chores at home or helping neighbors with tasks. (Insert cartoon image of this example)"
+  "content": "For kids, earning money might mean doing chores at home or helping neighbors with tasks."
+ },
+ {
+  "slide": 5,
+  "type": "image",
+  "content": "image_1.5.png"
  },
  {
   "slide": 6,
@@ -82,7 +107,12 @@
  {
   "slide": 6,
   "type": "text",
-  "content": "We can donate money to charities or help our friends and family if they need something.(cartoon image)"
+  "content": "We can donate money to charities or help our friends and family if they need something."
+ },
+ {
+  "slide": 6,
+  "type": "image",
+  "content": "image_1.6.jpeg"
  },
  {
   "slide": 7,
