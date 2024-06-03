@@ -22,5 +22,21 @@
   "c": "It's too difficult to set goals",
   "d": "It's better to just spend money as soon as we get it",
   "answer": "It helps us focus on what we want to achieve and how much we need to save"
+ },
+ {
+  "question": "Why should you create a budget?",
+  "a": "To ignore your spending habits",
+  "b": "To manage your income and expenses effectively",
+  "c": "To spend more than you earn",
+  "d": "To impress your friends with your financial knowledge",
+  "answer": "To manage your income and expenses effectively"
+ },
+ {
+  "question": "What is the purpose of a savings account?",
+  "a": "To lose money",
+  "b": "To store money securely and earn interest over time",
+  "c": "To spend money quickly",
+  "d": "To avoid saving any money",
+  "answer": "To store money securely and earn interest over time"
  }
 ]

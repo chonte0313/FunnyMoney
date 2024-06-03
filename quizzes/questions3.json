@@ -22,5 +22,21 @@
   "c": 2.2,
   "d": 2.03,
   "answer": 2.03
+ },
+ {
+  "question": "If you have 4 quarters, 3 nickels, 2 dimes, and 1 $10 bill, what is the total amount?",
+  "a": 10.65,
+  "b": 11.35,
+  "c": 10.9,
+  "d": 10.75,
+  "answer": 11.35
+ },
+ {
+  "question": "What is the total amount if you have 7 dimes, 6 nickels, and 5 $5 bills?",
+  "a": " $25.75",
+  "b": 26.35,
+  "c": 25.5,
+  "d": 26,
+  "answer": 26
  }
 ]

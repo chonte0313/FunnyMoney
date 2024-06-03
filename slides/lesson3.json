@@ -2,12 +2,12 @@
  {
   "slide": 1,
   "type": "title",
-  "content": "Introduction:"
+  "content": "In the chapter you will learn how to count coins and bills."
  },
  {
   "slide": 1,
   "type": "text",
-  "content": "Begin by emphasizing the importance of being able to count money accurately. Explain that counting money is a valuable skill that helps us manage our finances and make informed decisions about spending and saving."
+  "content": "Being able to count money accurately is super important so we can make sure we don't overpay or underpay when we are making purchases. Counting money is a valuable skill that helps us manage our finances and make informed decisions about spending and saving."
  },
  {
   "slide": 2,
@@ -98,15 +98,5 @@
   "slide": 6,
   "type": "text",
   "content": "Add up the total value of all the bills to find the total amount."
- },
- {
-  "slide": 6,
-  "type": "title",
-  "content": "Practice Counting:"
- },
- {
-  "slide": 6,
-  "type": "text",
-  "content": "Provide students with a variety of worksheets and activities to practice counting coins and bills. Include scenarios where they need to calculate the total amount of money given a set of coins and bills."
  }
 ]

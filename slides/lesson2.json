@@ -2,12 +2,12 @@
  {
   "slide": 1,
   "type": "title",
-  "content": "Introduction:"
+  "content": "Today we are going to learn the differences between different types of coins and bills"
  },
  {
   "slide": 1,
   "type": "text",
-  "content": "Begin by emphasizing the importance of being able to identify coins and bills in our daily lives. Explain that knowing the value of money helps us make smart decisions when spending and saving."
+  "content": "Being able to identify coins and bills is so important as we use them all the time in our daily lives. Knowing the value of money helps us make smart decisions when spending and saving"
  },
  {
   "slide": 2,
@@ -41,6 +41,11 @@
  },
  {
   "slide": 2,
+  "type": "image",
+  "content": "Penny-PNG-Clipart.png"
+ },
+ {
+  "slide": 2,
   "type": "title",
   "content": "Nickel:"
  },
@@ -58,6 +63,11 @@
   "slide": 2,
   "type": "text",
   "content": "The front side typically shows the profile of a former president, while the back side may feature images like Thomas Jefferson's Monticello."
+ },
+ {
+  "slide": 2,
+  "type": "image",
+  "content": "1024px-US_Nickel_2013_Obv.png"
  },
  {
   "slide": 2,
@@ -81,6 +91,11 @@
  },
  {
   "slide": 2,
+  "type": "image",
+  "content": "Dime_Obverse_13.png"
+ },
+ {
+  "slide": 2,
   "type": "title",
   "content": "Quarter:"
  },
@@ -98,6 +113,11 @@
   "slide": 2,
   "type": "text",
   "content": "The front side typically features the profile of a former president, while the back side may depict different designs, such as state emblems or national parks."
+ },
+ {
+  "slide": 2,
+  "type": "image",
+  "content": "kisspng-coin-united-states-washington-quarter-50-state-qua-america-the-beautiful-silver-bullion-coins-5b3beb7915f821.60608966153065356109.jpg"
  },
  {
   "slide": 3,
@@ -131,6 +151,11 @@
  },
  {
   "slide": 3,
+  "type": "image",
+  "content": "IMG_5535.JPG"
+ },
+ {
+  "slide": 3,
   "type": "title",
   "content": "$5 Bill:"
  },
@@ -148,6 +173,11 @@
   "slide": 3,
   "type": "text",
   "content": "The back side often depicts the Lincoln Memorial."
+ },
+ {
+  "slide": 3,
+  "type": "image",
+  "content": "IMG_5536.JPG"
  },
  {
   "slide": 3,
@@ -171,6 +201,11 @@
  },
  {
   "slide": 3,
+  "type": "image",
+  "content": "IMG_5537.JPG"
+ },
+ {
+  "slide": 3,
   "type": "title",
   "content": "$20 Bill:"
  },
@@ -188,5 +223,10 @@
   "slide": 3,
   "type": "text",
   "content": "The back side often depicts the White House."
+ },
+ {
+  "slide": 3,
+  "type": "image",
+  "content": "US_$20_Series_2006_Obverse.jpg"
  }
 ]

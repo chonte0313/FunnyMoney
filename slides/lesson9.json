@@ -2,12 +2,12 @@
  {
   "slide": 1,
   "type": "title",
-  "content": "Introduction:"
+  "content": "Here we are going to show you guys the concept of budgeting and how to manage money responsibly."
  },
  {
   "slide": 1,
   "type": "text",
-  "content": "Begin by explaining the importance of budgeting in managing personal finances. Budgeting involves creating a plan for how to allocate money to cover expenses, save for goals, and avoid overspending."
+  "content": "Budgeting in managing personal finances is super important so we don't spend too little or too much, but just the perfect amount. Budgeting involves creating a plan for how to distribute money to cover expenses, save for goals, and avoid overspending."
  },
  {
   "slide": 2,
@@ -30,11 +30,6 @@
   "content": "It helps individuals prioritize spending, track their financial progress, and make informed decisions about money."
  },
  {
-  "slide": 2,
-  "type": "image",
-  "content": "(insert photo: illustration of a budget plan)"
- },
- {
   "slide": 3,
   "type": "title",
   "content": "Components of a Budget:"
@@ -53,11 +48,6 @@
   "slide": 3,
   "type": "text",
   "content": "Savings: Money set aside for future goals, emergencies, or investments."
- },
- {
-  "slide": 3,
-  "type": "image",
-  "content": "(insert photo: illustration of income, expenses, and savings)"
  },
  {
   "slide": 4,
@@ -81,8 +71,18 @@
  },
  {
   "slide": 4,
+  "type": "text",
+  "content": "Add the total amount of income received within a specific time period, such as a week or a month. "
+ },
+ {
+  "slide": 4,
+  "type": "text",
+  "content": "These sources could be chores or a job. For example if we washed the dishes for $5 and got $10 for our birthday we would have earned $15 that week."
+ },
+ {
+  "slide": 4,
   "type": "image",
-  "content": "(insert photo: illustration of sources of income)"
+  "content": "multiple-streams-of-income-passive-income-or-revenue-vector.jpg"
  },
  {
   "slide": 4,
@@ -101,8 +101,13 @@
  },
  {
   "slide": 4,
+  "type": "text",
+  "content": "An example is if we were spending a certain amount of money on food each week or on a toy magazine. Sometimes we may need to change these expenses to fit them in our budget. "
+ },
+ {
+  "slide": 4,
   "type": "image",
-  "content": "(insert photo: illustration of tracking expenses)"
+  "content": "expense-management-4268366-3561009.png"
  },
  {
   "slide": 4,
@@ -117,12 +122,7 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "Prioritize essential expenses and allocate remaining funds to discretionary spending or savings."
- },
- {
-  "slide": 4,
-  "type": "image",
-  "content": "(insert photo: illustration of setting spending limits)"
+  "content": "Prioritize essential expenses and take the remaining funds to other spending or savings."
  },
  {
   "slide": 4,
@@ -138,11 +138,6 @@
   "slide": 4,
   "type": "text",
   "content": "Adjust spending as needed to stay within budget and make progress towards financial goals."
- },
- {
-  "slide": 4,
-  "type": "image",
-  "content": "(insert photo: illustration of monitoring and adjusting)"
  },
  {
   "slide": 5,
@@ -161,11 +156,6 @@
  },
  {
   "slide": 5,
-  "type": "image",
-  "content": "(insert photo: illustration of financial awareness)"
- },
- {
-  "slide": 5,
   "type": "title",
   "content": "Goal Achievement:"
  },
@@ -176,11 +166,6 @@
  },
  {
   "slide": 5,
-  "type": "image",
-  "content": "(insert photo: illustration of goal achievement)"
- },
- {
-  "slide": 5,
   "type": "title",
   "content": "Debt Reduction:"
  },
@@ -188,10 +173,5 @@
   "slide": 5,
   "type": "text",
   "content": "Budgeting allows individuals to manage debt more effectively by allocating funds towards debt repayment."
- },
- {
-  "slide": 5,
-  "type": "image",
-  "content": "(insert photo: illustration of debt reduction)"
  }
 ]

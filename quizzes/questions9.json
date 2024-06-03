@@ -22,5 +22,21 @@
   "c": "Income, expenses, and savings",
   "d": "Needs, luxuries, and wants",
   "answer": "Income, expenses, and savings"
+ },
+ {
+  "question": "What does it mean to save money?",
+  "a": "Spending all our money at once",
+  "b": "Putting some money aside for later",
+  "c": "Giving money away to friends",
+  "d": "Buying lots of toys",
+  "answer": "Putting some money aside for later"
+ },
+ {
+  "question": "Why is it important to think before spending our money?",
+  "a": "Because we should buy everything we want",
+  "b": "Because we want to waste money",
+  "c": "Because we should save money for special things",
+  "d": "Because spending money quickly is fun",
+  "answer": "Because we should save money for special things"
  }
 ]

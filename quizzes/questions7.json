@@ -22,5 +22,21 @@
   "c": "It's a waste of time and resources",
   "d": "It only benefits the recipient, not the giver",
   "answer": "It brings personal fulfillment and strengthens communities"
+ },
+ {
+  "question": "How can volunteering benefit you personally?",
+  "a": "By taking up your free time",
+  "b": "By developing new skills, meeting new people, and gaining a sense of accomplishment",
+  "c": "By costing you money",
+  "d": "By making you tired",
+  "answer": "By developing new skills, meeting new people, and gaining a sense of accomplishment"
+ },
+ {
+  "question": "What is one way children can start giving back?",
+  "a": "Ignoring opportunities to help",
+  "b": "Complaining about chores",
+  "c": "Participating in community service projects or helping a neighbor",
+  "d": "Asking for money without offering help",
+  "answer": "Participating in community service projects or helping a neighbor"
  }
 ]

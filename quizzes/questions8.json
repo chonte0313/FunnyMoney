@@ -22,5 +22,21 @@
   "c": "Wants are more important than needs",
   "d": "Needs are more expensive than wants",
   "answer": "Needs are essential for survival, while wants are unnecessary desires"
+ },
+ {
+  "question": "Which of the following is something we need to live?",
+  "a": "A new toy",
+  "b": "A trip to the movies",
+  "c": "Water",
+  "d": "Extra video games",
+  "answer": "Water"
+ },
+ {
+  "question": "Why should we think about what we need before what we want when planning our money?",
+  "a": "Because wants are more fun than needs",
+  "b": "Because needs are important for staying healthy and safe",
+  "c": "Because wants are cheaper than needs",
+  "d": "Because needs are harder to find",
+  "answer": "Because needs are important for staying healthy and safe"
  }
 ]

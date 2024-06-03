@@ -22,5 +22,21 @@
   "c": "Measurable",
   "d": "Unrealistic",
   "answer": "Measurable"
+ },
+ {
+  "question": "Pick the correct example of a SMART financial goa",
+  "a": "Spending all your money on a video game",
+  "b": "Buying the latest toy",
+  "c": "Saving up all your money for a long time then spending it all at once",
+  "d": "Saving up and investing all your money in order to buy your necessary times and expenses occasionally",
+  "answer": "Saving up and investing all your money in order to buy your necessary times and expenses occasionally"
+ },
+ {
+  "question": "Why should we think about what we want to do with our money?",
+  "a": "Because it's fun to spend money on anything we see",
+  "b": "Because it helps us achieve things we really want",
+  "c": "Because we should give all our money away",
+  "d": "Because we don't need to think about money at all",
+  "answer": "Because it helps us achieve things we really want"
  }
 ]

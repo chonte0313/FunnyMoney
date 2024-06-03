@@ -22,5 +22,21 @@
   "c": "Ignoring your budget",
   "d": "Always buying the first item you see",
   "answer": "Waiting at least 24 hours before making a purchase"
+ },
+ {
+  "question": "What is the benefit of comparing prices from different stores before buying? ",
+  "a": "To waste time and energy",
+  "b": "To find the highest price available",
+  "c": "To find the best deal and save money",
+  "d": "To make impulsive decisions",
+  "answer": "To find the best deal and save money"
+ },
+ {
+  "question": "What is a sale or discount?",
+  "a": "When an item is sold at a higher price than usual",
+  "b": "When an item is sold at a lower price than usual",
+  "c": "When an item is sold at its regular price",
+  "d": "When an item is free",
+  "answer": "When an item is sold at a lower price than usual"
  }
 ]

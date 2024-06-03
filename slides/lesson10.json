@@ -2,12 +2,12 @@
  {
   "slide": 1,
   "type": "title",
-  "content": "Introduction:"
+  "content": "In this lesson we learn how to set realistic financial goals and work towards achieving them."
  },
  {
   "slide": 1,
   "type": "text",
-  "content": "Begin by discussing the importance of setting financial goals to help individuals manage their money effectively and work towards their desired outcomes. Financial goals provide direction, motivation, and focus for financial decision-making."
+  "content": "Setting financial goals is so important to help people manage their money effectively and work towards their desired outcomes. Financial goals give us a direction, motivation, and focus for financial decision-making."
  },
  {
   "slide": 2,
@@ -28,11 +28,6 @@
   "slide": 2,
   "type": "text",
   "content": "They can be short-term, medium-term, or long-term goals and may include saving for emergencies, purchasing a car, or funding education."
- },
- {
-  "slide": 2,
-  "type": "image",
-  "content": "(insert photo: illustration of financial goals)"
  },
  {
   "slide": 3,
@@ -65,11 +60,6 @@
   "content": "Time-bound: Goals should have a deadline or timeframe for completion to create a sense of urgency and accountability."
  },
  {
-  "slide": 3,
-  "type": "image",
-  "content": "(insert photo: illustration of SMART financial goals)"
- },
- {
   "slide": 4,
   "type": "title",
   "content": "Setting Financial Goals:"
@@ -82,17 +72,17 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "Encourage students to reflect on their values, needs, and aspirations to identify what is most important to them."
+  "content": "Let's take a moment to think about what really matters to us. Maybe it's spending time with family, going on adventures, or saving up for something special. These are our values, the things that are most important to us."
  },
  {
   "slide": 4,
   "type": "text",
-  "content": "Discuss the difference between short-term, medium-term, and long-term goals and how they contribute to overall financial well-being."
+  "content": "Now, let's talk about goals. Some goals are like quick adventures, like saving up for a new toy. These are short-term goals. Then there are goals that take a bit longer, like saving up for a big trip or a special event. These are medium-term goals. And finally, we have goals that take a really long time to reach, like saving for college or a dream house. These are long-term goals."
  },
  {
   "slide": 4,
-  "type": "image",
-  "content": "(insert photo: illustration of identifying priorities)"
+  "type": "text",
+  "content": "All these goals, whether short, medium, or long-term, help us to be smart with our money and make sure we're taking care of what's most important to us in the long run."
  },
  {
   "slide": 4,
@@ -102,17 +92,12 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "Guide students in setting SMART (Specific, Measurable, Achievable, Relevant, Time-bound) financial goals that are clear, realistic, and actionable."
+  "content": "Let's set some super-smart money goals! First, our goals need to be really clear. That means we know exactly what we want to do. Next, they need to be measurable, so we can track our progress. Then, they should be things we can actually do, not too easy but not too hard. That's achievable! And our goals should be things that really matter to us, like saving up for a special trip or buying something important. That's relevant. Finally, we need to give ourselves a deadline, so we know when we want to reach our goal. That's time-bound!"
  },
  {
   "slide": 4,
   "type": "text",
-  "content": "Provide examples of SMART financial goals, such as saving a specific amount of money for a vacation or paying off a credit card debt within a certain timeframe."
- },
- {
-  "slide": 4,
-  "type": "image",
-  "content": "(insert photo: illustration of setting SMART goals)"
+  "content": "For example, let's say we want to save up for a cool new bike. Instead of just saying 'I want a bike,' we can make it a SMART goal by saying, 'I want to save $100 by my birthday in six months to buy a new bike.' See how clear, realistic, and doable that is? That's the power of SMART goals!"
  },
  {
   "slide": 4,
@@ -122,17 +107,27 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "Help students create a plan or roadmap for achieving their financial goals, including actionable steps, deadlines, and resources needed."
+  "content": "Let's make a super cool plan to reach our money goals! First, we need to break our big goal into smaller steps. For example, if we want to save $100 for a bike in six months, let's figure out how much we need to save each week."
  },
  {
   "slide": 4,
   "type": "text",
-  "content": "Emphasize the importance of breaking down larger goals into smaller, manageable tasks to maintain motivation and momentum."
+  "content": "Next, we'll set deadlines for each step. Maybe we decide to save $10 every week for ten weeks. That way, we'll have $100 by our deadline."
  },
  {
   "slide": 4,
-  "type": "image",
-  "content": "(insert photo: illustration of creating a goal plan)"
+  "type": "text",
+  "content": "Then, we need to think about what we need to do each week to save that money. Maybe we can do some extra chores or skip buying snacks to save a little extra."
+ },
+ {
+  "slide": 4,
+  "type": "text",
+  "content": "And finally, let's make sure we have everything we need to reach our goal, like a piggy bank or a savings jar."
+ },
+ {
+  "slide": 4,
+  "type": "text",
+  "content": "With our plan in place, we'll stay motivated and keep moving forward until we reach our awesome money goal!"
  },
  {
   "slide": 4,
@@ -142,7 +137,17 @@
  {
   "slide": 4,
   "type": "text",
-  "content": "Encourage students to track their progress towards their financial goals regularly, using tools such as a goal tracker or budgeting app."
+  "content": "Let's keep track of how awesome we're doing with our money goals! We can use special tools like a goal tracker or a cool app on our phone. Every week, let's check how much closer we're getting to our goal."
+ },
+ {
+  "slide": 4,
+  "type": "text",
+  "content": "And when we reach a milestone, like saving half of our goal or paying off a big chunk of our debt, let's celebrate! We can do a happy dance, have a special treat, or just give ourselves a high-five."
+ },
+ {
+  "slide": 4,
+  "type": "text",
+  "content": "Tracking our progress and celebrating our successes will keep us motivated and excited to reach our money goals!"
  },
  {
   "slide": 4,
@@ -152,7 +157,7 @@
  {
   "slide": 4,
   "type": "image",
-  "content": "(insert photo: illustration of tracking progress)"
+  "content": "expense-tracker-app-gradient-linear-icon-vector.jpg"
  },
  {
   "slide": 5,
@@ -172,7 +177,7 @@
  {
   "slide": 5,
   "type": "image",
-  "content": "(insert photo: illustration of focus and direction)"
+  "content": "little-boy-thinking-bubble-question-600nw-2080603960.webp"
  },
  {
   "slide": 6,
@@ -186,11 +191,6 @@
  },
  {
   "slide": 6,
-  "type": "image",
-  "content": "(insert photo: illustration of motivation)"
- },
- {
-  "slide": 6,
   "type": "text",
   "content": "Financial Well-Being:"
  },
@@ -198,10 +198,5 @@
   "slide": 6,
   "type": "text",
   "content": "Achieving financial goals contributes to overall financial well-being, security, and peace of mind."
- },
- {
-  "slide": 6,
-  "type": "image",
-  "content": "(insert photo: illustration of financial well-being)"
  }
 ]

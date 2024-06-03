@@ -1,13 +1,8 @@
 [
  {
   "slide": 1,
-  "type": "title",
-  "content": "Introduction:"
- },
- {
-  "slide": 1,
   "type": "text",
-  "content": "Begin by explaining the concept of saving money and its significance in achieving future goals. Saving money involves setting aside a portion of your earnings or allowance for later use rather than spending it immediately."
+  "content": "In this lesson we are going over the concept of saving money and its significance in achieving our future financial goals. Saving money involves putting aside some of your earnings or allowance for later use rather than spending it immediately."
  },
  {
   "slide": 2,
@@ -21,13 +16,18 @@
  },
  {
   "slide": 3,
+  "type": "title",
+  "content": "Benefits of Saving:"
+ },
+ {
+  "slide": 3,
   "type": "text",
   "content": "Emergency Fund: Saving money helps build an emergency fund to cover unexpected expenses such as medical bills or car repairs."
  },
  {
   "slide": 3,
   "type": "image",
-  "content": "(insert photo: illustration of piggy bank with coins)"
+  "content": "businessman-character-putting-money-piggy-bank_1012-341.avif"
  },
  {
   "slide": 4,
@@ -37,7 +37,7 @@
  {
   "slide": 4,
   "type": "image",
-  "content": "(insert photo: illustration of a goal chart with savings milestones)"
+  "content": "bicycle-311656_1280.webp"
  },
  {
   "slide": 5,
@@ -47,7 +47,7 @@
  {
   "slide": 5,
   "type": "image",
-  "content": "(insert photo: illustration of a happy family with a savings jar)"
+  "content": "saving-money-5400989-4528713.png"
  },
  {
   "slide": 6,
@@ -57,32 +57,37 @@
  {
   "slide": 6,
   "type": "text",
-  "content": "Set Goals: Encourage students to set specific savings goals, whether it's for a new toy, a college fund, or a family vacation."
- },
- {
-  "slide": 6,
-  "type": "image",
-  "content": "(insert photo: illustration of kids setting savings goals)"
+  "content": "Set Goals:"
  },
  {
   "slide": 6,
   "type": "text",
-  "content": "Create a Budget: Teach students the importance of creating a budget to track their income and expenses, allowing them to allocate money for saving."
- },
- {
-  "slide": 6,
-  "type": "image",
-  "content": "(insert photo: illustration of a budget planner)"
+  "content": "Pick a Goal: Decide what you want to save money for. It could be a new toy, school, or a family vacation."
  },
  {
   "slide": 6,
   "type": "text",
-  "content": "Practice Delayed Gratification: Explain the concept of delayed gratification, where we resist the temptation to spend money impulsively and instead save for something meaningful."
+  "content": "Be Specific: Make sure your goal is clear. For example, instead of just saying \"a toy,\" think about exactly which toy you want."
+ },
+ {
+  "slide": 6,
+  "type": "text",
+  "content": "Write It Down: Write down your goal so you can remember it and stay focused!"
+ },
+ {
+  "slide": 6,
+  "type": "text",
+  "content": "Create a Budget: Creating a budget is important to track their income and expenses, allowing them to distribute money for saving."
  },
  {
   "slide": 6,
   "type": "image",
-  "content": "(insert photo: illustration of a child saving money instead of buying candy)"
+  "content": "8478583.webp"
+ },
+ {
+  "slide": 6,
+  "type": "text",
+  "content": "Practice Delayed Gratification: As smart money users we practice delayed gratification, where we resist the temptation to spend money randomly on things we KINDA want and instead save for something meaningful."
  },
  {
   "slide": 7,
@@ -92,22 +97,22 @@
  {
   "slide": 7,
   "type": "text",
-  "content": "Start Small: Encourage students to start saving with small amounts and gradually increase their savings as they develop the habit."
+  "content": "Start Small: Alright students, remember we want to save our money for things we really want. Let's start with small amounts. For example, if you get $5 a week for allowance, try saving just $1 of it. After a few weeks, you can start saving $2. As you keep doing this, it will get easier to save more and more!"
  },
  {
   "slide": 7,
   "type": "image",
-  "content": "(insert photo: illustration of a child putting coins into a piggy bank)"
+  "content": "businessman-character-putting-money-piggy-bank_1012-341.avif"
  },
  {
   "slide": 7,
   "type": "text",
-  "content": "Use Savings Tools: Introduce students to different savings tools such as piggy banks, savings jars, or bank accounts to help them save effectively."
+  "content": "Use Savings Tools :Remember to use savings tools to help you save effectively. You can use things like piggy banks, savings jars, or bank accounts.These tools make saving money fun and easy!"
  },
  {
   "slide": 7,
   "type": "image",
-  "content": "(insert photo: illustration of various savings tools)"
+  "content": "expense-management-4268366-3561009.png"
  },
  {
   "slide": 7,
@@ -116,7 +121,12 @@
  },
  {
   "slide": 7,
+  "type": "text",
+  "content": "Also, celebrate your savings milestones. For example, when you save $10, have a small celebration to stay motivated and keep working toward your goals!"
+ },
+ {
+  "slide": 7,
   "type": "image",
-  "content": "(insert photo: illustration of kids celebrating reaching a savings goal)"
+  "content": "pngtree-cartoon-illustration-of-financial-goals-png-image_4030799-Photoroom.png"
  }
 ]
