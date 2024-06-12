@@ -10,20 +10,26 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #f7f7f7; /* Lighter gray background */
             color: #333;
         }
         header {
             background-color: #ffffff; /* White background */
             color: #000; /* Black text */
             padding: 1rem 0;
-            text-align: center;
+            text-align: left; /* Align header text to the left */
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         nav {
             display: flex;
-            justify-content: center;
+            justify-content: space-between;
             background: #218838;
+            padding: 0 2rem; /* Space between logo and menu items */
+        }
+        nav h1 {
+            color: #fff; /* White text */
+            font-size: 1.5rem; /* Slightly larger font size */
+            margin: 0;
         }
         nav a {
             color: #fff;
@@ -97,16 +103,18 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Funny Money</h1>
-        <p>Financial Literacy for Kids</p>
-    </header>
     <nav>
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#features">Features</a>
-        <a href="#contact">Contact</a>
+        <h1>Funny Money</h1>
+        <div>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#contact">Contact</a>
+        </div>
     </nav>
+    <header>
+        <!-- Header content removed as per request -->
+    </header>
     <section class="showcase" id="home">
         <div class="container">
             <h1>Welcome to Funny Money!</h1>
